@@ -17,3 +17,12 @@ This analysis not only provide valuable insights into sales performance but also
 - MS SQL Server
 - MS Excel
 - MS Power BI
+
+
+### Excel Dashboard:
+![Bike Store Sales Dashboard - Excel_page-0001](https://github.com/Rutujjagtap/Bike_Store_Sales_Analysis_Project/assets/160335838/ecb95a6b-e61d-4198-8d9a-d06da566d45e)
+
+### PowerBI Dashboard:
+![Bike Store Sales Dashboard - PowerBI_page-0001](https://github.com/Rutujjagtap/Bike_Store_Sales_Analysis_Project/assets/160335838/cdb49ed4-7f18-4ff7-828a-3157a6fbde5c)
+
+![Bike Store Sales Dashboard - PowerBI_page-0002](https://github.com/Rutujjagtap/Bike_Store_Sales_Analysis_Project/assets/160335838/cd42d1c5-aad7-4cd9-a333-7d5cb7558bf4)
